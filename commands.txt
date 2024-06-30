@@ -46,3 +46,29 @@
 
 * git log --oneline
 	- condensed version of git log
+
+* git config -h
+	- explore more commands in Git
+
+* git remote add origin 'link in the GitHub'
+Ex.:  git remote add origin https://github.com/wilvard03/Git_remote.git
+
+* git remote -v
+
+* git push -u origin master
+	- uploading files/folders from local repo to remote repo (If you're seeing master in the GitBash, type master and If main, type main)
+
+*git remote remove origin
+
+*clear
+ 	- to clean the code in GitBash
+
+* git clone 'link in the GitHub'
+	- create a copy of a remote repo on your local repo
+
+* git pull
+	- retrieving changes from a remote repo and merges then into your local repo
+
+* git fork
+	- creating a copy of an existing repo on a remote hosting platform like GitHub.
+
